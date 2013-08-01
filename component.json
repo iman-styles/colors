@@ -1,0 +1,8 @@
+{
+  "name": "colors",
+  "main": "index.scss",
+  "version": "0.1.0",
+  "styles": [
+    "index.scss"
+  ]
+}

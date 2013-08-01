@@ -1,0 +1,49 @@
+// Iman Colors
+// @var color
+// ___________________
+
+//grey
+$grey-darkest: #444;
+$grey-dark: #888;
+$grey: #ddd;
+$grey-light: #eee;
+$grey-lightest: #f6f6f6;
+
+//green
+$green: #79be10;
+$green-lightest: #f9fcf2;
+$green-dark: #ebefe2;
+
+//blue
+$blue: #241f57;
+$blue-light: #005580;
+$blue-lightest: #08c;
+
+//white
+$white: #fff;
+
+//purple
+$purple: #251F57;
+$purple-light: #47428c;
+
+//orange
+$orange       : #FE9C00;
+
+//error
+$red: #D63D3D;
+$error-color: $red;
+$error-dark-color: darken($red, 10%);
+$error-border-color: lighten($red, 10%);
+$error-background-color: lighten($red, 42%);
+
+// success
+$success-color: $green;
+$success-dark-color: darken($green, 10%);
+$success-border-color: lighten($success-color, 45%);
+$success-background-color: lighten($green, 55%);
+
+//border
+$border-color: $grey-light;
+
+//links
+$link-color: $blue-light;
